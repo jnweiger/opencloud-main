@@ -3,6 +3,10 @@
 [![status-badge](https://ci.opencloud.rocks/api/badges/3/status.svg)](https://ci.opencloud.rocks/repos/3)
  [![Matrix](https://img.shields.io/matrix/opencloud%3Amatrix.org?logo=matrix)](https://app.element.io/#/room/#opencloud:matrix.org)
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjnweiger%2Fopencloud-main.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjnweiger%2Fopencloud-main?ref=badge_shield)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjnweiger%2Fopencloud-main.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjnweiger%2Fopencloud-main?ref=badge_large)
 
 # Server Backend
 
